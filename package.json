@@ -1,0 +1,29 @@
+{
+  "name": "foldertypescript",
+  "version": "1.0.0",
+  "description": "My first job in development",
+  "type": "module",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "practice",
+    "typescript",
+    "packages",
+    "tsconfig"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/juanprogram1/FolderTypeScript.git"
+  },
+  "author": "Juan David Carrillo Anillo",
+  "license": "AGPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/juanprogram1/FolderTypeScript/issues"
+  },
+  "homepage": "https://github.com/juanprogram1/FolderTypeScript#readme",
+  "devDependencies": {
+    "@types/node": "20.11.28"
+  }
+}
