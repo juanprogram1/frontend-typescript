@@ -1,1 +1,0 @@
-import {sumar} from "./index";
