@@ -1,6 +1,13 @@
+src/assets/
 types/
 node_modules/
 typescript-starter/
 .env
+.husky/
 *.tmp
 *~
+\#*#
+.#*
+'#*
+.DS_Store
+.Thumbs.db
