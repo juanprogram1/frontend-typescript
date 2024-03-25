@@ -1,2 +1,2 @@
-let world: string = "mundo";
-console.log(`Hola ${world}`);
+const world = "mundo";
+`Hola ${world}`;
